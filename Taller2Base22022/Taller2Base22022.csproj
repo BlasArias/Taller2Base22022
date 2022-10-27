@@ -192,6 +192,12 @@
     <Compile Include="InsertarDatosCliente.Designer.cs">
       <DependentUpon>InsertarDatosCliente.cs</DependentUpon>
     </Compile>
+    <Compile Include="InsertarDatosProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InsertarDatosProveedor.Designer.cs">
+      <DependentUpon>InsertarDatosProveedor.cs</DependentUpon>
+    </Compile>
     <Compile Include="ModificacionDeDatos.cs">
       <SubType>Form</SubType>
     </Compile>
